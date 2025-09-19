@@ -48,6 +48,8 @@ This project explores **consumer behaviour in the Malaysian skincare market**, f
 ---
 
 ## 4. Screenshots
+![Dashboard Screenshot](skincare-dashboard.png)
+
 
 
 
